@@ -84,6 +84,10 @@ def fiche_nom():
 @app.route('/admin/')
 def admin():
     return render_template('admin.html')
+
+@app.route('/utilisateur/')
+def admin():
+    return render_template('utilisateur.html')
                                                                                                            
 if __name__ == "__main__":
   app.run(debug=True)
