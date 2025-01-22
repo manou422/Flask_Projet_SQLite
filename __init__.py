@@ -86,7 +86,7 @@ def admin():
     return render_template('admin.html')
 
 @app.route('/utilisateur/')
-def admin():
+def utilisateur():
     return render_template('utilisateur.html')
                                                                                                            
 if __name__ == "__main__":
