@@ -1,3 +1,11 @@
-<!doctype html>
-<title>Fiche nom</title>
-<h1> Fiche nom </h1>
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulaire d'enregistrement d'un nouveau client</title>
+</head>
+<body>
+    <h1> Fiche nom </h1>
+</body>
+</html>
