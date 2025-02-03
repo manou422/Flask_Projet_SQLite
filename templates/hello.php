@@ -9,4 +9,5 @@
 if (isset($_POST['mon_bouton'])) {
     echo "Bouton cliqué !";
 }
+    echo "Bouton cliqué !";
 ?>
