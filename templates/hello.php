@@ -7,4 +7,6 @@
 <a href="lecture">
     <button>Lecture</button>
 </a>
-
+<a href="enregister_client">
+    <button>enregistrer</button>
+</a>
