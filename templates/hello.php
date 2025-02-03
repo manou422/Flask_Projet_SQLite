@@ -1,11 +1,5 @@
 <!doctype html>
 <title>Flask Server</title>
 <h1> Bienvenue sur la bibliothèque </h1>
-<form method="post">
-    <input type="submit" name="mon_bouton" value="Cliquez-moi">
-</form>
+<button onclick="alert('Bouton cliqué !')">Cliquez-moi</button>
 
-<?php
-
-    echo "Bouton cliqué !";
-?>
